@@ -18,7 +18,7 @@ for (let line of connectingLines.of(dots)) graphics.draw(line);
 ```
 
 A function that returns an Iteratorer ("iteration recipe") and a Reducerer.
-```javacript
+```javascript
 import It from 'iteratorers';
 
 const wordsStartingWith = (letter) =>
