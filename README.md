@@ -29,7 +29,7 @@ const words = ["Apfel", "Orange", "Ananas", "Birne", "Mandarine"];
 
 const {best: shortestWord, min: shortestWordLength} = shortest.of(wordsStartingWith("A").of(words));
 
-console.log(`The shortest word that starts with A is ${shortestWord} (${shortestWordLength} letters)`;
+console.log(`The shortest word that starts with A is ${shortestWord} (${shortestWordLength} letters)`);
 ```
 
 ## Contribution
