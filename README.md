@@ -39,4 +39,4 @@ Your help is highly welcome! :)
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/aeickhoff/meta-eval/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/citybound/iteratorers/blob/master/LICENSE.md) for details.
